@@ -8,7 +8,7 @@ def fib(n):
 fib(1000)
 
 print("Testando no Notepadd++")
-print("Não acredito no que estou vendo!!!!")
-print("Aposto que não funciona!")
-print("Nem presisa apertar botão!")
+print("Nao acredito no que estou vendo!!!!")
+print("Aposto que nao funciona!")
+print("Nem presisa apertar botao!")
 print(1+1)
